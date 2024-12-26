@@ -8,6 +8,8 @@ PortfolioApp/
 ├── Controllers/
 ├── Models/
 ├── Views/
+└── tests/
+    └── PortfolioApp.Tests/
 ├── wwwroot/
 ├── appsettings.json
 ├── PortfolioApp.csproj
@@ -15,8 +17,6 @@ PortfolioApp/
 ├── Startup.cs
 ├── README.md
 ├── .gitignore
-└── tests/
-    └── PortfolioApp.Tests/
 ```
 # Portfolio App
 
