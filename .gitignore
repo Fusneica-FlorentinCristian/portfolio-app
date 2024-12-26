@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore the lib folder in wwwroot
+wwwroot/lib/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore ProjectFilesContent.txt
+/Utils/ProjectFilesContent.txt
