@@ -1,6 +1,6 @@
 # Florentin-Cristian Fusneica
 
-## Software Engineer · Integration / Release Delivery / Cross-Repo Ownership
+## Software Engineer · DevOps / .NET / CI/CD
 
 ---
 
@@ -11,16 +11,16 @@ fusneica.florentin.cristian@gmail.com | [LinkedIn](https://www.linkedin.com/in/f
 
 ### Profile
 
-Software engineer with 4+ years owning end-to-end delivery across build, packaging, integration, and release validation for complex multi-repo products. Strongest in add-on-to-host integration releases, regression triage, and cross-team coordination. Best suited for integration engineering, release engineering, and generalist backend roles.
+Software engineer with 4+ years across DevOps, .NET, and enterprise CI/CD — building pipelines, automating releases, and improving build reliability for large product teams. Strong in Jenkins, Azure, MSBuild, and cross-functional delivery. Best suited for generalist software engineer, DevOps, build/release, and .NET backend roles.
 
 ---
 
 ### Skills
 
-- **Integration:** Desktop add-on products, upstream runtime bumps, cross-repo PR flow
+- **DevOps & CI/CD:** Jenkins, Azure, GitHub Checks, multibranch pipelines, Groovy shared libraries
 - **Languages:** C#, Python, PowerShell, JavaScript
-- **Delivery:** Jenkins CI, Azure, Git, GitHub
-- **Strengths:** Regression triage, rollback decisions, local source builds, stakeholder coordination
+- **Build & Release:** .NET, MSBuild, NuGet, Artifactory, code signing
+- **Strengths:** Pipeline migration, release automation, CI reliability, mentoring
 
 ---
 
@@ -29,17 +29,16 @@ Software engineer with 4+ years owning end-to-end delivery across build, packagi
 **DevOps Engineer** — Alten (contracted to Autodesk)
 *September 2025 – July 2026* | .NET, Jenkins, Azure, PowerShell, C#
 
-- End-to-end owner for **add-on-to-host integration releases**: add-on build → package publish → main-product integration PR → build-farm QA validation
-- Triaged **automated regression failures** after upstream runtime upgrades; reverted failed integration with documented rollback when release blocked
-- Built **local host application from source** to unblock add-on validation when CI packages unavailable
-- Coordinated cross-team delivery with runtime, DevOps, and integration stakeholders across packaging and main product repos
-- Led cloud build-agent migration for add-on product CI/CD across multiple annual release branches
+- Led **cloud CI/CD migration** (legacy build farm → Azure) for enterprise desktop product add-ons across multiple annual release branches
+- Designed **Jenkins multibranch pipelines** with shared Groovy libraries, reactive parameters, and standardized assembly versioning
+- Owned **.NET build and release** — MSBuild packaging, NuGet/Artifactory publish, Authenticode signing, and artifact validation
+- Improved **CI reliability** with durable agent layout, coverage reporting, GitHub Checks, and cross-team release coordination
 
 **.NET Developer** — Cognyte
 *September 2022 – July 2025* | C#/.NET, Jenkins, Ansible, Python
 
 - Owned feature delivery and operational upkeep for 40+ microservices including 15 core platform services
-- Collaborated cross-functionally with architects, DevOps, QA, and Product on business-critical releases
+- Built and maintained CI/CD automation using Jenkins, Ansible, and Groovy across all services
 - Led training, mentoring, and onboarding of new team members
 
 **Software Developer** — Independent Contractor
