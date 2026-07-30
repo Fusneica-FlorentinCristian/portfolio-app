@@ -29,11 +29,11 @@ Software engineer with 4+ years owning end-to-end delivery across build, packagi
 **DevOps Engineer** — Alten (contracted to Autodesk)
 *September 2025 – July 2026* | .NET, Jenkins, Azure, PowerShell, C#
 
-- End-to-end owner for **add-on-to-host integration releases** across Dynamo for Revit and Steel Connections products — build, package publish, integration PR, and QA validation
-- Split monolithic CI/CD into **reviewable per-feature PR stacks**; coordinated cross-repo delivery and decoupled merge paths
-- Led **ECS→Azure CI migration** for add-on product lines across multiple annual release branches
-- Triaged **automated regression failures** after upstream runtime upgrades; coordinated rollback when integration blocked release
-- Built **agent knowledge repos** and CI babysit workflows for team handoff and release continuity
+- End-to-end owner for **add-on-to-host integration releases**: add-on build → package publish → main-product integration PR → build-farm QA validation
+- Triaged **automated regression failures** after upstream runtime upgrades; reverted failed integration with documented rollback when release blocked
+- Built **local host application from source** to unblock add-on validation when CI packages unavailable
+- Coordinated cross-team delivery with runtime, DevOps, and integration stakeholders across packaging and main product repos
+- Led cloud build-agent migration for add-on product CI/CD across multiple annual release branches
 
 **.NET Developer** — Cognyte
 *September 2022 – July 2025* | C#/.NET, Jenkins, Ansible, Python

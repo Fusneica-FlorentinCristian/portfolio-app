@@ -29,11 +29,11 @@ DevOps engineer with 4+ years building and migrating enterprise CI/CD platforms.
 **DevOps Engineer** — Alten (contracted to Autodesk)
 *September 2025 – July 2026* | Azure, Jenkins, Groovy, PowerShell, .NET, Artifactory
 
-- Led **ECS→Azure CI migration** for Dynamo for Revit and Steel Connections add-ons across multiple annual release branches — Azure blob procurement, Artifactory fallback, AzCopy automation, and Jenkins pipeline refactor
-- Split monolithic CI/CD work into **reviewable per-feature PR stacks** with decoupled merge paths for independent delivery
-- Delivered **durable cache**, centralized ci-config, parallel Artifactory downloads, and dotnet-coverage reporting
-- Hardened **Garasign/Authenticode signing** with fail-fast checks on .NET 10 release branches; refactored Jenkins multibranch pipelines with reactive parameters and shared Groovy libraries
-- Built **agent knowledge repos** and orchestrated CI babysit workflows to support team handoff and release continuity
+- Led **cloud build-agent migration** (legacy farm → Azure) for CI/CD across two add-on product lines and four annual release tracks — Azure blob binary procurement, Artifactory fallback, AzCopy automation, and Jenkins pipeline refactor
+- Designed and refactored **Jenkins multibranch pipelines** with Active Choices reactive parameters, shared Groovy libraries, and T4-based assembly versioning
+- Hardened **artifact and signing pipelines** with fail-fast Authenticode checks, Artifactory SSO credential chains, and selective publish workflows
+- Improved CI reliability through durable agent workspace layout, cloud/network-share binary procurement, and flaky test/coverage triage
+- Drove **GitHub Checks** integration spikes (build, tests, coverage) across packaging repos and cross-repo add-on delivery
 
 **.NET Developer** — Cognyte
 *September 2022 – July 2025* | C#/.NET, Ansible, Jenkins, Groovy, Bitbucket, Wix, Python

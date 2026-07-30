@@ -30,11 +30,11 @@ fusneica.florentin.cristian@gmail.com | [LinkedIn](https://www.linkedin.com/in/f
 **DevOps Engineer** — Alten (contracted to Autodesk)
 *September 2025 – July 2026* | .NET, MSBuild, Jenkins, PowerShell, Azure
 
-- Led **.NET 10 migration** for Dynamo for Revit and Steel Connections add-ons: MSBuild updates, bundled dependencies, and release-branch validation
-- Hardened **Garasign/Authenticode signing** with fail-fast checks on .NET 10 release branches across packaging repos
-- Implemented **dotnet-coverage** reporting and out-of-box sample smoke tests for add-on products
-- Ported CI patterns between packaging repos — centralized ci-config, build-deps stacks, and procurement templates
-- Integrated **upstream runtime version bumps** into annual release branches via MSBuild packaging and dedicated CI pipelines
+- Led **.NET 10 migration** for desktop add-on products: project files, resource extraction, bundled dependencies, and release-branch validation
+- Integrated multiple **upstream runtime versions** into annual release branches via MSBuild packaging and dedicated CI pipelines
+- Implemented **out-of-box sample smoke tests** for add-on products
+- Modernized a **structural-analysis prebuild** step with PowerShell and centralized MSBuild props
+- Restored **Authenticode signing verification** after .NET 10 migration across release tracks
 
 **.NET Developer** — Cognyte
 *September 2022 – July 2025* | C#/.NET, Ansible, Jenkins, Groovy, Bitbucket, Wix, Python
