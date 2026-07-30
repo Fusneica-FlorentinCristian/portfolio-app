@@ -28,13 +28,13 @@ Platform engineer with 4+ years designing internal build and delivery systems fo
 ### Work Experience
 
 **DevOps Engineer (Platform)** — Alten (contracted to Autodesk)
-*September 2025 – Present* | Azure, Jenkins, Groovy, PowerShell, .NET, Artifactory
+*September 2025 – July 2026* | Azure, Jenkins, Groovy, PowerShell, .NET, Artifactory
 
-- Architected and delivered **cloud migration** from legacy build agents to Azure for CI/CD across two add-on product lines and multiple annual release branches
-- Designed **self-service pipeline patterns** with Groovy shared libraries, reactive Jenkins parameters, and centralized MSBuild props for team onboarding
-- Split monolithic .NET packaging into **modular, cacheable components** with dynamic tool discovery and intelligent fallback logic
-- Built platform-level **code coverage infrastructure** (local + CI, Cobertura/HTML) and PowerShell helpers for large binary procurement lifecycle
-- Implemented **GitHub Checks** design spikes and auto-trigger release workflows connecting packaging pipelines to downstream integration PRs
+- Architected **ECS→Azure CI migration** for Dynamo for Revit and Steel Connections add-ons across multiple annual release branches
+- Split monolithic CI/CD into **reviewable per-feature PR stacks** with decoupled merge paths for independent platform delivery
+- Built **durable cache**, centralized ci-config, parallel artifact downloads, and dotnet-coverage infrastructure for packaging repos
+- Ported CI patterns between packaging repos — shared build-deps stacks, procurement templates, and self-service pipeline onboarding patterns
+- Created **agent knowledge repos** and CI babysit workflows for sustainable team handoff and platform continuity
 
 **.NET Developer** — Cognyte
 *September 2022 – July 2025* | C#/.NET, Ansible, Jenkins, Groovy, Bitbucket, Wix, Python
